@@ -1,0 +1,132 @@
+hyperskill_project:
+  id: 145
+  ide_files: https://cogniterra.org/media/attachments/lesson/25282/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Tue, 15 Oct 2024 08:59:14 UTC"
+stages:
+  - id: 781
+    step: 11755
+    is_completed: true
+  - id: 782
+    step: 11756
+    is_completed: true
+  - id: 783
+    step: 11757
+    is_completed: true
+  - id: 784
+    step: 11758
+    is_completed: true
+  - id: 785
+    step: 11759
+    is_completed: true
+topics:
+  0:
+    - title: Operating systems
+      theory_id: 9704
+    - title: Command line overview
+      theory_id: 8977
+    - title: Parameters and options
+      theory_id: 9746
+    - title: HTTP URL
+      theory_id: 6740
+    - title: HTTP messages
+      theory_id: 6752
+    - title: Introduction to Python
+      theory_id: 47352
+    - title: Multi-line programs
+      theory_id: 47555
+    - title: "PEP 8: Coding style guide"
+      theory_id: 47499
+    - title: Taking user's input
+      theory_id: 47680
+    - title: Program with numbers
+      theory_id: 47734
+    - title: If statement
+      theory_id: 5953
+    - title: Else statement
+      theory_id: 5932
+    - title: For loop
+      theory_id: 6065
+    - title: Importing modules
+      theory_id: 6019
+    - title: Creating modules
+      theory_id: 6057
+    - title: Multiple modules. Package
+      theory_id: 6384
+    - title: Installing packages with pip
+      theory_id: 6230
+    - title: PyCharm basics
+      theory_id: 6193
+    - title: Elif statement
+      theory_id: 5926
+    - title: Running Python applications in PyCharm
+      theory_id: 19153
+    - title: "Requests: retrieving data"
+      theory_id: 8603
+    - title: JSON
+      theory_id: 6854
+    - title: How to read the documentation
+      theory_id: 12125
+    - title: Basic data types
+      theory_id: 47516
+    - title: Variables
+      theory_id: 47536
+    - title: "Integer arithmetic: basic operations"
+      theory_id: 47564
+    - title: "Integer arithmetic: special operations"
+      theory_id: 47917
+    - title: Invoking functions
+      theory_id: 5891
+    - title: Boolean type and operations. True and false
+      theory_id: 6025
+    - title: Comparisons
+      theory_id: 5920
+    - title: List
+      theory_id: 5979
+    - title: Declaring functions
+      theory_id: 5900
+    - title: "Function, arguments and parameters"
+      theory_id: 7248
+    - title: Quotes and multi-line strings
+      theory_id: 5814
+    - title: Dictionary
+      theory_id: 6481
+    - title: Dictionary methods
+      theory_id: 9008
+    - title: Operations with dictionary
+      theory_id: 11096
+  1:
+    - title: Tags and Attributes
+      theory_id: 7536
+    - title: HTML page structure
+      theory_id: 6491
+    - title: "BeautifulSoup: working with HTML"
+      theory_id: 10209
+  2:
+    - title: Working with file modes and permissions
+      theory_id: 13961
+    - title: Files
+      theory_id: 13025
+    - title: File types
+      theory_id: 13017
+    - title: File modes and permissions
+      theory_id: 13953
+    - title: Files in Python
+      theory_id: 8691
+    - title: Writing files
+      theory_id: 8334
+    - title: Bytes basics
+      theory_id: 8061
+    - title: Creating bytes
+      theory_id: 8069
+  3:
+    - title: "Working with strings: basic methods"
+      theory_id: 6842
+    - title: String formatting
+      theory_id: 6037
+    - title: The string module
+      theory_id: 15332
+  4:
+    - title: os module
+      theory_id: 11119

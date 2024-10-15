@@ -1,0 +1,29 @@
+type: edu
+files:
+  - name: scraper.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: Moderna_COVID_vaccine_becomes_second_to_get_US_authorization.txt
+    visible: true
+    learner_created: true
+  - name: Biden’s_pick_to_head_US_environment_agency_heartens_scientists.txt
+    visible: true
+    learner_created: true
+  - name: Is_lightning_striking_the_Arctic_more_than_ever_before.txt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/11758#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 15 Oct 2024 09:01:21 UTC"
+record: 4
